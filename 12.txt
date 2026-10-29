@@ -1,0 +1,9 @@
+database name: 
+entity
+Student
+name: Jaasim Ahamed A.j
+Phone number: 9302129279
+
+professor
+name:Ananth
+phone number: 2172898777
